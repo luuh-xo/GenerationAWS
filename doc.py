@@ -6,7 +6,7 @@ app = FastAPI()
 
 # Configuração da conexão com o banco de dados
 conn = pyodbc.connect(
-    'Driver={SQL Server};Server=myServerAddress;Database=myDatabase;Trusted_Connection=yes;'
+    'Driver={SQL Server};'
     "Server=DESKTOP-I5DV782;"
     "Database=Projeto AWS;"
 )
