@@ -15,9 +15,9 @@ A tecnologia Cloud sustenta tudo o que experimentamos na Internet. Da Netflix pa
 2 
 
 ## :wrench: Tecnologias utilizadas
-*Python
-*Flask
-*SQL Server
+* Python
+* Flask
+* SQL Server
 
 ## :soon: Implementação futura
 * O que será implementado na próxima sprint?
