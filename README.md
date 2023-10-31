@@ -12,15 +12,18 @@ A tecnologia Cloud sustenta tudo o que experimentamos na Internet. Da Netflix pa
 1 Construr um CRUD para armazenar dados dos alunos de uma escola, os dados a serem armazenados são [id, nome, isade, nota do prmero semmestre, nota do segundo semestre, nome do professor,numero da sala]
 ![image](https://github.com/luuh-xo/GenerationAWS/assets/122574265/96379e17-8917-4eaf-899e-7f6d733b7f41)
 
-2 
+2 Implemente o SWAGGER na aplicação e crie a documentação.
+![image](https://github.com/luuh-xo/GenerationAWS/assets/122574265/779d07ae-dd37-4157-aa8e-1da4c742b436)
+
+3 Realize o deploy em serviço de hospedagem gratuita.
+![image](https://github.com/luuh-xo/GenerationAWS/assets/122574265/b943247b-b485-407f-b9c8-09305a5999e6)
+
 
 ## :wrench: Tecnologias utilizadas
 * Python
 * Flask
 * SQL Server
-
-## :soon: Implementação futura
-* O que será implementado na próxima sprint?
+* Netlify
 
 
-## :dart: Status do projeto
+
