@@ -1,5 +1,5 @@
 
-<h1 align="center">:file_cabinet:Bootcamp Generation Brasil AWS.</h1>
+<h1 star ="center">:file_cabinet:Bootcamp Generation Brasil AWS.</h1>
 
 ## :memo: Descrição
 A Amazon Web Services (AWS) e a Generation Brasil estão colaborando para treinar as pessoas participantes a desenvolver habilidades técnicas e socioemocionais no programa AWS re/Start gratuito. 
