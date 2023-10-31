@@ -10,7 +10,7 @@ A tecnologia Cloud sustenta tudo o que experimentamos na Internet. Da Netflix pa
 
 ## :books: Funcionalidades
 1 Construr um CRUD para armazenar dados dos alunos de uma escola, os dados a serem armazenados são [id, nome, isade, nota do prmero semmestre, nota do segundo semestre, nome do professor,numero da sala]
-![image](https://github.com/luuh-xo/GenerationAWS/assets/122574265/23ec4035-973f-48ac-b271-9765db55397f)
+![image](https://github.com/luuh-xo/GenerationAWS/assets/122574265/96379e17-8917-4eaf-899e-7f6d733b7f41)
 
 2 
 
