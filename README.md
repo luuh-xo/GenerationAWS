@@ -11,12 +11,6 @@ Escreva uma descrição do seu projeto
 ## :wrench: Tecnologias utilizadas
 * Tecnologia;
 
-## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-```
-<linha de comando>
-```
-
 ## :soon: Implementação futura
 * O que será implementado na próxima sprint?
 
