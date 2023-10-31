@@ -9,15 +9,15 @@ O AWS re/Start prepara os estudantes para as funções básicas na nuvem, como o
 A tecnologia Cloud sustenta tudo o que experimentamos na Internet. Da Netflix para o Facebook, do Reddit para a BBC, milhões de empresas em todo o mundo utilizam Amazon Web Services e Cloud para impulsionar seus negócios. 
 
 ## :books: Funcionalidades
-1 Construr um CRUD para armazenar dados dos alunos de uma escola 
-Foi utlizado o bando de dados SQL Server
-![image](https://github.com/luuh-xo/GenerationAWS/assets/122574265/c2c12f37-df09-4e41-bcc6-023d6682c20e)
+1 Construr um CRUD para armazenar dados dos alunos de uma escola, os dados a serem armazenados são [id, nome, isade, nota do prmero semmestre, nota do segundo semestre, nome do professor,numero da sala]
+![image](https://github.com/luuh-xo/GenerationAWS/assets/122574265/23ec4035-973f-48ac-b271-9765db55397f)
 
+2 
 
 ## :wrench: Tecnologias utilizadas
-Python
-Flask
-SQL Server
+*Python
+*Flask
+*SQL Server
 
 ## :soon: Implementação futura
 * O que será implementado na próxima sprint?
