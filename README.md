@@ -1,5 +1,4 @@
-# GenerationAWS
-Projeto teste para a empresa Generation Brasil.
+
 <h1 align="center">:file_cabinet:Projeto teste para a empresa Generation Brasil.</h1>
 
 ## :memo: Descrição
